@@ -1,0 +1,6 @@
+@pjait_apbd_lab05_HostAddress = http://localhost:5162
+
+GET {{pjait_apbd_lab05_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
